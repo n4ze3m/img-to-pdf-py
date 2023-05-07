@@ -33,6 +33,10 @@ python main.py
 
 - It will create a PDF file in the same directory as the images.
 
+## Issues
+
+- Currently application takes little bit time to start on Windows. 
+
 
 ## Screenshots
 
